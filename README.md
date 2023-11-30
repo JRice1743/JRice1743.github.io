@@ -1,3 +1,3 @@
 # Portfolio-UI-Web-Mobile-Community-HTML
 
-[Edit here](https://diy-pwa.dev/~/gh//JRice1743.github.io)
+[Edit here](https://diy-pwa.dev/~/gh/JRice1743/JRice1743.github.io)
