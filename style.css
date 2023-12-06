@@ -5,7 +5,9 @@ body, h1, h2, h3,h4 p, ul {
 }
 
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Catamaran', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Vollkorn', serif;
   line-height: 1.6;
   background-color: #E9E8EE;
   color: black;
